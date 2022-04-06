@@ -1,0 +1,6 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+Page_De_Login:
+    path: /index/Page_De_Login
+    controller: App\Controller\PageDeLoginController::index
